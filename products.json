@@ -1,0 +1,1250 @@
+[
+  {
+    "Winery": "Utopía",
+    "Brand": "",
+    "Description": "Roble",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": 10000
+  },
+  {
+    "Winery": "Guayna",
+    "Brand": "",
+    "Description": "Red Wine",
+    "Grape": "Merlot",
+    "Year": 0,
+    "Price": 9000
+  },
+  {
+    "Winery": "Guayna",
+    "Brand": "",
+    "Description": "Red Wine",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": 9000
+  },
+  {
+    "Winery": "Andeluna",
+    "Brand": "1300",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 1300,
+    "Price": 6500
+  },
+  {
+    "Winery": "Antoña Girard",
+    "Brand": "",
+    "Description": "Girard Ballester",
+    "Grape": "Malbec de Parcela",
+    "Year": 0,
+    "Price": 17000
+  },
+  {
+    "Winery": "Antoña Girard",
+    "Brand": "",
+    "Description": "Girard Ballester",
+    "Grape": "Petit Verdot",
+    "Year": 0,
+    "Price": 17000
+  },
+  {
+    "Winery": "Luigi Bosca",
+    "Brand": "",
+    "Description": "",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 0,
+    "Price": 12900
+  },
+  {
+    "Winery": "Escorihuela Gascón",
+    "Brand": "",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": 12200
+  },
+  {
+    "Winery": "Pimba",
+    "Brand": "",
+    "Description": "2022",
+    "Grape": "Blend de Petit Verdot y Cabernet Franc",
+    "Year": 2022,
+    "Price": 14000
+  },
+  {
+    "Winery": "Pimba",
+    "Brand": "",
+    "Description": "2022",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": 14000
+  },
+  {
+    "Winery": "Pimba",
+    "Brand": "",
+    "Description": "2022",
+    "Grape": "Cabernet Franc",
+    "Year": 2022,
+    "Price": 14000
+  },
+  {
+    "Winery": "LorenQ",
+    "Brand": "",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": 15000
+  },
+  {
+    "Winery": "LorenQ",
+    "Brand": "",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 0,
+    "Price": 15000
+  },
+  {
+    "Winery": "Limbo",
+    "Brand": "",
+    "Description": "2022",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": 10000
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "Alfredo Roca",
+    "Description": "Parcela",
+    "Grape": "Malbec",
+    "Year": 2019,
+    "Price": "15800.0"
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "Alfredo Roca",
+    "Description": "Fincas",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "",
+    "Description": "Alma Inquieta",
+    "Grape": "Cabernet Franc",
+    "Year": 2019,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "Alfredo Roca",
+    "Description": "Fincas",
+    "Grape": "Pinot Noir",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "Alfredo Roca",
+    "Description": "Fincas",
+    "Grape": "Rosé",
+    "Year": 2023,
+    "Price": "12800.0"
+  },
+  {
+    "Winery": "Alfredo Roca",
+    "Brand": "Alfredo Roca",
+    "Description": "Fincas",
+    "Grape": "Chardonnay",
+    "Year": 2023,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Andeluna",
+    "Brand": 1300,
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 2023,
+    "Price": "6500.0"
+  },
+  {
+    "Winery": "Andeluna",
+    "Brand": "Altitudd Andina",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "10000.0"
+  },
+  {
+    "Winery": "Bendito Tú Eres",
+    "Brand": "Bendito Tú Eres",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 2020,
+    "Price": "10000.0"
+  },
+  {
+    "Winery": "Catena",
+    "Brand": "Nicasia",
+    "Description": "",
+    "Grape": "Red Blend(Malbec-Cabernet Sauvignon-Petit Verdot)",
+    "Year": 2021,
+    "Price": "7300.0"
+  },
+  {
+    "Winery": "Catena",
+    "Brand": "Saint Felicien",
+    "Description": "-",
+    "Grape": "Cabernet Franc",
+    "Year": 2020,
+    "Price": "9200.0"
+  },
+  {
+    "Winery": "Catena",
+    "Brand": "Saint Felicien",
+    "Description": "-",
+    "Grape": "Cabernet Franc",
+    "Year": 2019,
+    "Price": "9200.0"
+  },
+  {
+    "Winery": "Catena",
+    "Brand": "Saint Felicien",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 2019,
+    "Price": ""
+  },
+  {
+    "Winery": "Cinco Sentidos",
+    "Brand": "El Viñatero",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "6300.0"
+  },
+  {
+    "Winery": "Creación",
+    "Brand": "Creación",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Creación",
+    "Brand": "Creación",
+    "Description": "Reserva",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "El Vista Florino",
+    "Description": "Gran Reserva",
+    "Grape": "Blend(Bonarda-Tempranillo-Malbec)",
+    "Year": 2020,
+    "Price": "18000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "El Vista Florino",
+    "Description": "Reserva",
+    "Grape": "Blend(Malbec-Cabernet Franc)",
+    "Year": 2022,
+    "Price": "1200.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "El Vista Florino",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "El Vista Florino",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "El Vista Florino",
+    "Description": "-",
+    "Grape": "Chardonnay",
+    "Year": 2023,
+    "Price": "10000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "Pimba",
+    "Description": "Reserva",
+    "Grape": "Blend(Petit Verdot-Cabernet Franc)",
+    "Year": 2022,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "Pimba",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2022,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "El Vista Florino",
+    "Brand": "Pimba",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Escorihuela Gascón",
+    "Brand": "Escorihuela",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "7500.0"
+  },
+  {
+    "Winery": "Escorihuela Gascón",
+    "Brand": "Escorihuela",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "12200.0"
+  },
+  {
+    "Winery": "Escorihuela Gascón",
+    "Brand": "Familia Gascón",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "4800.0"
+  },
+  {
+    "Winery": "Escorihuela Gascón",
+    "Brand": "Familia Gascón",
+    "Description": "Roble",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "6200.0"
+  },
+  {
+    "Winery": "Familia Bianchi",
+    "Brand": "Familia Bianchi",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "6800.0"
+  },
+  {
+    "Winery": "Familia Bianchi",
+    "Brand": "Familia Bianchi",
+    "Description": "",
+    "Grape": "Red Blend(Malbec-Cabernet Sauvignon)",
+    "Year": 2021,
+    "Price": "6500.0"
+  },
+  {
+    "Winery": "Ginard Ballester",
+    "Brand": "Antonia Ginard",
+    "Description": "Reserva",
+    "Grape": "Petit Verdot",
+    "Year": 2021,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Ginard Ballester",
+    "Brand": "Antonia Ginard",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2020,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Celos",
+    "Description": "Espumante",
+    "Grape": "Extra Brut",
+    "Year": 0,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Celos",
+    "Description": "Espumante",
+    "Grape": "Malbec Rosé Dulce Natural",
+    "Year": 0,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Celos",
+    "Description": "Espumante",
+    "Grape": "Torrontés Dulce Natural",
+    "Year": 0,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Don Silvestre",
+    "Description": "Linea Joven",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 0,
+    "Price": "6000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Don Silvestre",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "6000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Don Silvestre",
+    "Description": "Linea Joven",
+    "Grape": "Tempranillo",
+    "Year": 0,
+    "Price": "6000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Don Silvestre",
+    "Description": "-",
+    "Grape": "Chardonnay",
+    "Year": 2022,
+    "Price": "6000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa",
+    "Description": "Roble",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2022,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa",
+    "Description": "Roble",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa",
+    "Description": "Roble",
+    "Grape": "Tempranillo",
+    "Year": 2022,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa ",
+    "Description": "Reserva",
+    "Grape": "Blend(Malbec-Cabernet Sauvignon)",
+    "Year": 2021,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Hinojosa",
+    "Brand": "Hinojosa ",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "La Luz",
+    "Brand": "Callejón del Crimen",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 2020,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Limbo",
+    "Brand": "Limbo",
+    "Description": "Reserva",
+    "Grape": "Petit Verdot",
+    "Year": 2020,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Limbo",
+    "Brand": "Limbo",
+    "Description": "Reserva",
+    "Grape": "Blend(Malbec-Cabernet Sauvignon-Petit Verdot)",
+    "Year": 2021,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Limbo",
+    "Brand": "Limbo",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2019,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Limbo",
+    "Brand": "Limbo",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "10000.0"
+  },
+  {
+    "Winery": "Luigi Bosca",
+    "Brand": "La Linda",
+    "Description": "",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2022,
+    "Price": "7200.0"
+  },
+  {
+    "Winery": "Luigi Bosca",
+    "Brand": "La Linda",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "7200.0"
+  },
+  {
+    "Winery": "Luigi Bosca",
+    "Brand": "Luigi Bosca",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "12900.0"
+  },
+  {
+    "Winery": "Luigi Bosca",
+    "Brand": "Luigi Bosca",
+    "Description": "",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2020,
+    "Price": "12900.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "La Gran Revancha",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "La Gran Revancha",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "La Gran Revancha",
+    "Description": "Reserva",
+    "Grape": "Merlot",
+    "Year": 2022,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "Mendel",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "Mendel",
+    "Description": "-",
+    "Grape": "Semillon",
+    "Year": 2022,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Michel Rolán",
+    "Brand": "Clos de los Siete",
+    "Description": "Reserva",
+    "Grape": "Blend(Malbec)",
+    "Year": 0,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Michel Rolán",
+    "Brand": "Mariflor",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Décimo",
+    "Description": "Gran Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2015,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Décimo",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 2015,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Décimo",
+    "Description": "Gran Reserva",
+    "Grape": "Anchelotta",
+    "Year": 0,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Décimo",
+    "Description": "Gran Reserva",
+    "Grape": "Gran Corte",
+    "Year": 0,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Ancellotta",
+    "Year": 2021,
+    "Price": "11000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 0,
+    "Price": "11000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "11000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 0,
+    "Price": "11000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Rose",
+    "Year": 0,
+    "Price": "11000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2021,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Chardonnay",
+    "Year": 0,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Reserva",
+    "Grape": "Sauvignon Blanc",
+    "Year": 0,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Espumoso",
+    "Grape": "Rosatto",
+    "Year": 0,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Espumoso",
+    "Grape": "Torrontés",
+    "Year": 0,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "Miguel Minni",
+    "Brand": "Miguel Minni",
+    "Description": "Espumoso",
+    "Grape": "Extra Brut",
+    "Year": 0,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "Murville",
+    "Brand": "Il Segreto",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "4200.0"
+  },
+  {
+    "Winery": "Murville",
+    "Brand": "Il Segreto",
+    "Description": "Linea Joven",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 0,
+    "Price": "4200.0"
+  },
+  {
+    "Winery": "Murville",
+    "Brand": "Sexto Sentido",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "4900.0"
+  },
+  {
+    "Winery": "Murville",
+    "Brand": "Sexto Sentido",
+    "Description": "-",
+    "Grape": "Cabernet Franc",
+    "Year": 0,
+    "Price": "4900.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Amor Desmedido",
+    "Description": "Gran Reserva",
+    "Grape": "Malbec",
+    "Year": 2018,
+    "Price": "25000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Loren Qu",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2020,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Loren Qu",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2021,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Siete Pasiones",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 2023,
+    "Price": "5000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Siete Pasiones",
+    "Description": "Linea Joven",
+    "Grape": "Blanco Dulce",
+    "Year": 2023,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Siete Pasiones",
+    "Description": "Linea Joven",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "6800.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Siete Pasiones",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2019,
+    "Price": "18000.0"
+  },
+  {
+    "Winery": "Quintana",
+    "Brand": "Siete Pasiones",
+    "Description": "Linea Joven",
+    "Grape": "Blend(Malbec-Petit Verdot)",
+    "Year": 2021,
+    "Price": "9000.0"
+  },
+  {
+    "Winery": "Salentien",
+    "Brand": "Numina",
+    "Description": "Viñas Antiguas",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "13100.0"
+  },
+  {
+    "Winery": "Salentien",
+    "Brand": "Salentien",
+    "Description": "Reserva",
+    "Grape": "Blend(Cabernet Sauvignon-Cabernet Franc-Malbec)",
+    "Year": 2021,
+    "Price": "10800.0"
+  },
+  {
+    "Winery": "Salentien",
+    "Brand": "Salentien",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "9000.0"
+  },
+  {
+    "Winery": "Santa Julia",
+    "Brand": "Alambrado",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "5800.0"
+  },
+  {
+    "Winery": "Sur de los Andes",
+    "Brand": "Sur de los Andes",
+    "Description": "Reserva",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2019,
+    "Price": "11700.0"
+  },
+  {
+    "Winery": "Sur de los Andes",
+    "Brand": "Sur de los Andes",
+    "Description": "Reserva",
+    "Grape": "Blend(Malbec-Cabernet Sauvignon)",
+    "Year": 2019,
+    "Price": "11700.0"
+  },
+  {
+    "Winery": "Sur de los Andes",
+    "Brand": "Sur de los Andes",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2016,
+    "Price": "11700.0"
+  },
+  {
+    "Winery": "Umberto Canale",
+    "Brand": "Intimo",
+    "Description": "Selected Rio Negro Vineyard",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "6600.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Corazon de Roble",
+    "Description": "-",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "8000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Utopía",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2016,
+    "Price": "9000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva",
+    "Grape": "Blend(Cabernet Franc-Cabernet Sauvignon-Merlot)",
+    "Year": 2016,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva Antiguos",
+    "Grape": "Blend(Malbec-Cabernet Franc-Merlot-Petit Verdot)",
+    "Year": 2004,
+    "Price": "18000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva Filosofo",
+    "Grape": "Blend(Malbec-Cabernet Sauvignon-Merlot)",
+    "Year": 2010,
+    "Price": "18000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva 6ta Viña",
+    "Grape": "Blend(Malbec-Cabernet Sauvignon)",
+    "Year": 2012,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva Aniversario 25",
+    "Grape": "Blend(Sirah-Cabernet Sauvignon-Merlot-Malbec)",
+    "Year": 2015,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Reserva",
+    "Grape": "Cabernet Franc",
+    "Year": 2016,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2018,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Gran Reserva Geoenergia",
+    "Grape": "Malbec",
+    "Year": 2012,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Reserva",
+    "Grape": "Petit Verdot",
+    "Year": 2015,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "Reserva",
+    "Grape": "Pinot Noir",
+    "Year": 2020,
+    "Price": "15000.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Wayna",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2022,
+    "Price": "8500.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Wayna",
+    "Description": "Reserva",
+    "Grape": "Merlot",
+    "Year": 2022,
+    "Price": "8500.0"
+  },
+  {
+    "Winery": "Vistalba",
+    "Brand": "Tomero",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "7300.0"
+  },
+  {
+    "Winery": "Vistalba",
+    "Brand": "Tomero",
+    "Description": "Single Vineyard",
+    "Grape": "Malbec",
+    "Year": 2019,
+    "Price": "14000.0"
+  },
+  {
+    "Winery": "Uxmal",
+    "Brand": "Uxmal",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "4200.0"
+  },
+  {
+    "Winery": "Lopez",
+    "Brand": "Lopez",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2023,
+    "Price": "4500.0"
+  },
+  {
+    "Winery": "Viñas del Cerno",
+    "Brand": "Viñas del Cerno",
+    "Description": "",
+    "Grape": "Torrontés Dulce",
+    "Year": 0,
+    "Price": "12000.0"
+  },
+  {
+    "Winery": "Mendel",
+    "Brand": "Mendel",
+    "Description": "Rosadía",
+    "Grape": "Rosé",
+    "Year": 0,
+    "Price": "28000.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Petite Fleur",
+    "Description": "Espumoso",
+    "Grape": "Brut Nature",
+    "Year": 0,
+    "Price": "19000.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Lindaflor",
+    "Description": "Espumoso",
+    "Grape": "Brut Nature Chardonnay",
+    "Year": 0,
+    "Price": "29000.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Lindaflor",
+    "Description": "Espumoso",
+    "Grape": "Extra Brut Malbec",
+    "Year": 0,
+    "Price": "29000.0"
+  },
+  {
+    "Winery": "Montequieto",
+    "Brand": "Alegre",
+    "Description": "Gran Corte",
+    "Grape": "Syrah",
+    "Year": 2020,
+    "Price": "20000.0"
+  },
+  {
+    "Winery": "Montequieto",
+    "Brand": "Alegre",
+    "Description": "Gran Corte",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "20000.0"
+  },
+  {
+    "Winery": "Montequieto",
+    "Brand": "Alegre",
+    "Description": "Gran Corte",
+    "Grape": "Blend(Malbec-Cabernet Franc-Syrah)",
+    "Year": 2021,
+    "Price": "20000.0"
+  },
+  {
+    "Winery": "Montequieto",
+    "Brand": "Alegre",
+    "Description": "Gran Corte",
+    "Grape": "Cabernet Franc",
+    "Year": 2020,
+    "Price": "20000.0"
+  },
+  {
+    "Winery": "Montequieto",
+    "Brand": "Quieto",
+    "Description": "Reserva",
+    "Grape": "Malbec",
+    "Year": 2021,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "Mil Ocho Ochentaiocho",
+    "Brand": "Mil Ocho Ochentaiocho",
+    "Description": "",
+    "Grape": "Sidra",
+    "Year": 0,
+    "Price": "5500.0"
+  },
+  {
+    "Winery": "Diamandes",
+    "Brand": "Diamandes",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 2020,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Diamandes",
+    "Brand": "Diamandes",
+    "Description": "",
+    "Grape": "Cabernet Sauvignon",
+    "Year": 2021,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "Diamandes",
+    "Brand": "Diamandes",
+    "Description": "",
+    "Grape": "Cabernet Franc",
+    "Year": 2021,
+    "Price": "17000.0"
+  },
+  {
+    "Winery": "",
+    "Brand": "Fernet Branca",
+    "Description": "",
+    "Grape": "",
+    "Year": 0,
+    "Price": "13000.0"
+  },
+  {
+    "Winery": "",
+    "Brand": "Cinzano",
+    "Description": "",
+    "Grape": "",
+    "Year": 0,
+    "Price": "0.0"
+  },
+  {
+    "Winery": "",
+    "Brand": "Gancia",
+    "Description": "",
+    "Grape": "",
+    "Year": 0,
+    "Price": "0.0"
+  },
+  {
+    "Winery": "Cicchitti",
+    "Brand": "Cicchitti",
+    "Description": "Nectar",
+    "Grape": "Dulce Natural",
+    "Year": 0,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Cicchitti",
+    "Brand": "Cicchitti",
+    "Description": "",
+    "Grape": "Chardonnay",
+    "Year": 2023,
+    "Price": "16000.0"
+  },
+  {
+    "Winery": "Tres Blasones",
+    "Brand": "Croft Twist",
+    "Description": "Aperitivo Espumante",
+    "Grape": "Espumante",
+    "Year": 0,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Callejon Del Crimen",
+    "Brand": "Single Vineyard",
+    "Description": "Vista Flores",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Callejon Del Crimen",
+    "Brand": "Single Vineyard",
+    "Description": "Gualtallary",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Callejon Del Crimen",
+    "Brand": "Single Vineyard",
+    "Description": "El Cepillo",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Callejon Del Crimen",
+    "Brand": "Single Vineyard",
+    "Description": "Blend de Terroirs",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "22000.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Festivo",
+    "Description": "",
+    "Grape": "Rosado",
+    "Year": 0,
+    "Price": "11200.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Festivo",
+    "Description": "",
+    "Grape": "Malbec",
+    "Year": 0,
+    "Price": "11200.0"
+  },
+  {
+    "Winery": "Monteviejo",
+    "Brand": "Festivo",
+    "Description": "",
+    "Grape": "Torrontés",
+    "Year": 0,
+    "Price": "11200.0"
+  }
+]
