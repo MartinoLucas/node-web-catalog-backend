@@ -10,7 +10,7 @@ app.use(express.json());
 
 // Ruta para obtener el JSON almacenado localmente
 app.get('/data', (req, res) => {
-    const jsonPath = path.join(__dirname, 'products.json');
+    const jsonPath = path.join(__dirname, '../products.json');
     
     fs.readFile(jsonPath, 'utf8', (err, data) => {
         if (err) {
@@ -21,6 +21,7 @@ app.get('/data', (req, res) => {
 });
 
 // Iniciar el servidor
-app.listen(PORT, () => {
-    console.log(`Servidor corriendo en http://localhost:${PORT}`);
-});
+//app.listen(PORT, () => {
+//    console.log(`Servidor corriendo en http://localhost:${PORT}`);
+//});
+module.exports = app;
